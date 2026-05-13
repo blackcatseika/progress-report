@@ -1,8 +1,0 @@
-"0","res %>% "
-"0","  select(-model_number, -target) %>% # remove assist column"
-"0","  select(` `, `AUC`, everything()) %>% # put AUC column to first column"
-"0","  kable(booktabs=TRUE, "
-"0","        caption=""Five-fold cross validation results for each model and modelling scenario.  Values are given as mean (standard error)."","
-"0","        align=""lrrrrr"") %>% "
-"0","  pack_rows(index=table(res$model_number)) %>% # add title to different group"
-"0","  kable_styling(latex_options = c(""striped"", ""hold_position"", ""scale_up""))"
