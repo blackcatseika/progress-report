@@ -1,0 +1,6 @@
+{
+    "min_impurity_decrease":0.0009194836,
+    "splitter":"best",
+    "min_samples_split":6,
+    "achieved_value":0.815849765
+}

@@ -1,0 +1,6 @@
+{
+    "max_depth":25,
+    "min_samples_leaf":11,
+    "max_features":"sqrt",
+    "achieved_value":0.8507721965
+}

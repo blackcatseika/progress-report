@@ -1,0 +1,23 @@
+index,features
+1,d1_comorbidities_Prefer_not_to_say
+2,WCRex2_Don't know
+3,state_Northern Territory
+4,WCRex2_No confidence at all
+5,state_Victoria
+6,WCRex2_Not very much confidence
+7,d1_comorbidities_No
+8,WCRex2_A lot of confidence
+9,gender_Male
+10,state_Tasmania
+11,state_Western Australia
+12,d1_comorbidities_Yes
+13,state_South Australia
+14,state_Queensland
+15,household_size
+16,cantril_ladder
+17,r1_2
+18,r1_1
+19,age
+20,week_number
+21,state_New South Wales
+22,protective_behaviour_nomask_scale

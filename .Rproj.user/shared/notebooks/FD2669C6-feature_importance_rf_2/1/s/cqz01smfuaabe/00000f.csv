@@ -1,0 +1,4 @@
+"0","df1 <- read_csv(here::here(""results/model_2a_rf_feature_importance.csv""),"
+"0","                col_types = cols())"
+"0","df2 <- read_csv(here::here(""results/model_2b_rf_feature_importance.csv""),"
+"0","                col_types = cols())"

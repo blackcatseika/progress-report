@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<style>body{background-color:white;}</style>
+<script src="lib/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="lib/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="lib/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="lib/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="lib/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="lib/kePrint-0.0.1/kePrint.js"></script>
+<link href="lib/lightable-0.0.1/lightable.css" rel="stylesheet" />
+
+</head>
+<body>
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>Metric validation on test data.</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:right;"> AUC </th>
+   <th style="text-align:right;"> Precision </th>
+   <th style="text-align:right;"> Recall </th>
+   <th style="text-align:right;"> Accuracy </th>
+   <th style="text-align:right;"> F1 </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr grouplength="2"><td colspan="6" style="border-bottom: 1px solid;"><strong>after mandate-face mask</strong></td></tr>
+<tr>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> xgboost </td>
+   <td style="text-align:right;"> 0.866 </td>
+   <td style="text-align:right;"> 0.897 </td>
+   <td style="text-align:right;"> 0.839 </td>
+   <td style="text-align:right;"> 0.815 </td>
+   <td style="text-align:right;"> 0.867 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> rf </td>
+   <td style="text-align:right;"> 0.877 </td>
+   <td style="text-align:right;"> 0.895 </td>
+   <td style="text-align:right;"> 0.876 </td>
+   <td style="text-align:right;"> 0.836 </td>
+   <td style="text-align:right;"> 0.885 </td>
+  </tr>
+  <tr grouplength="2"><td colspan="6" style="border-bottom: 1px solid;"><strong>after mandate-protect behaviour</strong></td></tr>
+<tr>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> xgboost </td>
+   <td style="text-align:right;"> 0.835 </td>
+   <td style="text-align:right;"> 0.899 </td>
+   <td style="text-align:right;"> 0.754 </td>
+   <td style="text-align:right;"> 0.757 </td>
+   <td style="text-align:right;"> 0.820 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> rf </td>
+   <td style="text-align:right;"> 0.834 </td>
+   <td style="text-align:right;"> 0.892 </td>
+   <td style="text-align:right;"> 0.762 </td>
+   <td style="text-align:right;"> 0.758 </td>
+   <td style="text-align:right;"> 0.822 </td>
+  </tr>
+  <tr grouplength="2"><td colspan="6" style="border-bottom: 1px solid;"><strong>before mandate-face mask</strong></td></tr>
+<tr>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> xgboost </td>
+   <td style="text-align:right;"> 0.840 </td>
+   <td style="text-align:right;"> 0.523 </td>
+   <td style="text-align:right;"> 0.751 </td>
+   <td style="text-align:right;"> 0.750 </td>
+   <td style="text-align:right;"> 0.617 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> rf </td>
+   <td style="text-align:right;"> 0.837 </td>
+   <td style="text-align:right;"> 0.553 </td>
+   <td style="text-align:right;"> 0.723 </td>
+   <td style="text-align:right;"> 0.769 </td>
+   <td style="text-align:right;"> 0.626 </td>
+  </tr>
+  <tr grouplength="2"><td colspan="6" style="border-bottom: 1px solid;"><strong>before mandate-protect behaviour</strong></td></tr>
+<tr>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> xgboost </td>
+   <td style="text-align:right;"> 0.769 </td>
+   <td style="text-align:right;"> 0.727 </td>
+   <td style="text-align:right;"> 0.695 </td>
+   <td style="text-align:right;"> 0.697 </td>
+   <td style="text-align:right;"> 0.711 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> rf </td>
+   <td style="text-align:right;"> 0.779 </td>
+   <td style="text-align:right;"> 0.730 </td>
+   <td style="text-align:right;"> 0.723 </td>
+   <td style="text-align:right;"> 0.709 </td>
+   <td style="text-align:right;"> 0.727 </td>
+  </tr>
+</tbody>
+</table> <script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [["$","$"]]}})</script><script async src="https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+index,features
+1,i11_health_Not sure
+2,WCRex1_Somewhat well
+3,PHQ4_3_Several days
+4,PHQ4_3_Prefer not to say
+5,PHQ4_3_Nearly every day
+6,PHQ4_3_Not at all
+7,employment_status_Part time employment
+8,WCRex2_Don't know
+9,employment_status_Unemployed
+10,i11_health_Somewhat unwilling
+11,WCRex1_Somewhat badly
+12,WCRex1_Very badly
+13,WCRex2_Not very much confidence
+14,employment_status_Not working
+15,WCRex2_No confidence at all
+16,i11_health_Somewhat willing
+17,state_Northern Territory
+18,i11_health_Very unwilling
+19,WCRex1_Very well
+20,PHQ4_3_N/A
+21,i9_health_Not sure
+22,WCRex2_A lot of confidence
+23,employment_status_Retired
+24,state_South Australia
+25,state_New South Wales
+26,i9_health_Yes
+27,state_Victoria
+28,week_number
+29,i11_health_Very willing
+30,state_Tasmania
+31,state_Queensland
+32,state_Western Australia
+33,protective_behaviour_nomask_scale

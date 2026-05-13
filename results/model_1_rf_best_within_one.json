@@ -1,0 +1,6 @@
+{
+    "max_depth":23.0,
+    "min_samples_leaf":1.0,
+    "min_samples_split":4.0,
+    "achieved_value":0.9084123612
+}

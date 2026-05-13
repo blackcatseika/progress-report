@@ -1,0 +1,8 @@
+"0","res %>% "
+"0","  select(-model_group, -target, -model_number) %>%"
+"0","  select(` `, `AUC`, everything()) %>% "
+"0","  kable(booktabs=TRUE, "
+"0","        caption=""Metric validation on test data."","
+"0","        align=""lrrrrr"") %>% "
+"0","  pack_rows(index=table(res$model_group)) %>% "
+"0","  kable_styling(latex_options = c(""striped"", ""hold_position"", ""scale_up""))"

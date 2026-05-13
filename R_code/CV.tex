@@ -1,0 +1,125 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\documentclass[
+]{article}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage{colortbl}
+\usepackage{pdflscape}
+\usepackage{tabu}
+\usepackage{threeparttable}
+\usepackage{threeparttablex}
+\usepackage[normalem]{ulem}
+\usepackage{makecell}
+\usepackage{xcolor}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={CV Result},
+  pdfauthor={Yue Zhang},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{CV Result}
+\author{Yue Zhang}
+\date{}
+
+\begin{document}
+\maketitle
+
+\begin{verbatim}
+## Warning in styling_latex_scale(out, table_info, "up"): Longtable cannot be
+## resized.
+\end{verbatim}
+
+\begin{longtable}[t]{lrrrrr}
+\caption{\label{tab:unnamed-chunk-4}Five-fold cross validation results for each model and modelling scenario.  Values are given as mean (standard error).}\\
+\toprule
+ & AUC & Precision & Recall & Accuracy & F1\\
+\midrule
+\addlinespace[0.3em]
+\multicolumn{6}{l}{\textbf{after mandate-face mask}}\\
+\cellcolor{gray!10}{\hspace{1em}Logistic Regression} & \cellcolor{gray!10}{0.837 (0.002)} & \cellcolor{gray!10}{0.877(0.001)} & \cellcolor{gray!10}{0.783 (0.001)} & \cellcolor{gray!10}{0.77(0.001)} & \cellcolor{gray!10}{0.827(0.001)}\\
+\hspace{1em}Classification Tree & 0.856 (0.003) & 0.902(0.002) & 0.818 (0.004) & 0.809(0.001) & 0.858(0.001)\\
+\cellcolor{gray!10}{\hspace{1em}XGBoost} & \cellcolor{gray!10}{0.892 (0.002)} & \cellcolor{gray!10}{0.9(0.001)} & \cellcolor{gray!10}{0.859 (0.002)} & \cellcolor{gray!10}{0.834(0.002)} & \cellcolor{gray!10}{0.879(0.001)}\\
+\hspace{1em}Random Forest & 0.888 (0.002) & 0.894(0.002) & 0.873 (0.001) & 0.838(0.002) & 0.883(0.001)\\
+\addlinespace[0.3em]
+\multicolumn{6}{l}{\textbf{after mandate-protective behaviour}}\\
+\cellcolor{gray!10}{\hspace{1em}Logistic Regression} & \cellcolor{gray!10}{0.781 (0.003)} & \cellcolor{gray!10}{0.859(0.002)} & \cellcolor{gray!10}{0.736 (0.002)} & \cellcolor{gray!10}{0.722(0.002)} & \cellcolor{gray!10}{0.793(0.002)}\\
+\hspace{1em}Classification Tree & 0.663 (0.004) & 0.858(0.004) & 0.497 (0.02) & 0.578(0.012) & 0.628(0.017)\\
+\cellcolor{gray!10}{\hspace{1em}XGBoost} & \cellcolor{gray!10}{0.846 (0.002)} & \cellcolor{gray!10}{0.887(0.002)} & \cellcolor{gray!10}{0.777 (0.001)} & \cellcolor{gray!10}{0.768(0.001)} & \cellcolor{gray!10}{0.829(0.001)}\\
+\hspace{1em}Random Forest & 0.829 (0.001) & 0.88(0.002) & 0.763 (0.003) & 0.754(0.001) & 0.817(0.001)\\
+\addlinespace[0.3em]
+\multicolumn{6}{l}{\textbf{before mandate-face mask}}\\
+\cellcolor{gray!10}{\hspace{1em}Logistic Regression} & \cellcolor{gray!10}{0.824 (0.004)} & \cellcolor{gray!10}{0.48(0.002)} & \cellcolor{gray!10}{0.771 (0.011)} & \cellcolor{gray!10}{0.728(0.001)} & \cellcolor{gray!10}{0.592(0.004)}\\
+\hspace{1em}Classification Tree & 0.817 (0.002) & 0.507(0.003) & 0.742 (0.008) & 0.749(0.002) & 0.603(0.004)\\
+\cellcolor{gray!10}{\hspace{1em}XGBoost} & \cellcolor{gray!10}{0.861 (0.001)} & \cellcolor{gray!10}{0.557(0.003)} & \cellcolor{gray!10}{0.755 (0.007)} & \cellcolor{gray!10}{0.783(0.002)} & \cellcolor{gray!10}{0.641(0.002)}\\
+\hspace{1em}Random Forest & 0.851 (0.003) & 0.544(0.002) & 0.741 (0.008) & 0.774(0.001) & 0.627(0.002)\\
+\addlinespace[0.3em]
+\multicolumn{6}{l}{\textbf{before mandate-protective behaviour}}\\
+\cellcolor{gray!10}{\hspace{1em}Logistic Regression} & \cellcolor{gray!10}{0.777 (0.005)} & \cellcolor{gray!10}{0.438(0.005)} & \cellcolor{gray!10}{0.732 (0.007)} & \cellcolor{gray!10}{0.691(0.005)} & \cellcolor{gray!10}{0.548(0.006)}\\
+\hspace{1em}Classification Tree & 0.689 (0.004) & 0.735(0.007) & 0.465 (0.008) & 0.629(0.005) & 0.569(0.007)\\
+\cellcolor{gray!10}{\hspace{1em}XGBoost} & \cellcolor{gray!10}{0.779 (0.004)} & \cellcolor{gray!10}{0.719(0.004)} & \cellcolor{gray!10}{0.71 (0.005)} & \cellcolor{gray!10}{0.701(0.002)} & \cellcolor{gray!10}{0.714(0.002)}\\
+\hspace{1em}Random Forest & 0.783 (0.004) & 0.721(0.005) & 0.741 (0.004) & 0.712(0.004) & 0.731(0.004)\\
+\bottomrule
+\end{longtable}
+
+\end{document}

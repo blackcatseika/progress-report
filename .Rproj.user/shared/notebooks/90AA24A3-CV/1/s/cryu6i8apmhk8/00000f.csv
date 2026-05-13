@@ -1,0 +1,8 @@
+"0","model_list <- c(""01_model_1"","
+"0","                ""02_model_2"","
+"0","                ""03_model_1a"","
+"0","                ""04_model_2a"","
+"0","                ""05_model_1b"","
+"0","                ""06_model_2b"")"
+"0","res <- map_dfr(model_list, get_model_results)"
+"0",""

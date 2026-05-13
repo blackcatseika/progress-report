@@ -1,0 +1,6 @@
+{
+    "learning_rate":0.0329842021,
+    "subsample":0.7696139279,
+    "colsample_bytree":0.6661293617,
+    "achieved_value":0.8449575324
+}

@@ -1,0 +1,1 @@
+{"number": 85, "value": 0.8158497649996328, "params": {"min_impurity_decrease": 0.0009194835796330629, "splitter": "best", "min_samples_split": 6}, "user_attrs": {"std_err": 0.0026485868633335063}}

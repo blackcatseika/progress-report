@@ -1,0 +1,6 @@
+{
+    "max_depth":19,
+    "max_features":"log2",
+    "min_samples_leaf":2,
+    "achieved_value":0.7801375819
+}

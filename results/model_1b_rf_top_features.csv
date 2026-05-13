@@ -1,0 +1,23 @@
+index,features
+1,state_Northern Territory
+2,i11_health_Not sure
+3,i11_health_Somewhat unwilling
+4,i11_health_Very unwilling
+5,state_South Australia
+6,state_New South Wales
+7,i9_health_Not sure
+8,state_Victoria
+9,i11_health_Somewhat willing
+10,i9_health_Yes
+11,gender_Male
+12,state_Tasmania
+13,cantril_ladder
+14,household_size
+15,r1_2
+16,r1_1
+17,i11_health_Very willing
+18,age
+19,state_Western Australia
+20,state_Queensland
+21,week_number
+22,protective_behaviour_nomask_scale

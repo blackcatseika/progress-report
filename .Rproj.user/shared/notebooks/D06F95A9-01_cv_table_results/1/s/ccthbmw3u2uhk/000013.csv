@@ -1,0 +1,14 @@
+"0","res <- res %>% "
+"0","  mutate(target=ifelse(str_detect(model_number, ""_1""), ""face_mask"", ""other""),"
+"0","         model_number = case_when(str_detect(model_number, ""a"") ~ ""Pre-mandate"","
+"0","                                  str_detect(model_number, ""b"") ~ ""Mandate"","
+"0","                                  TRUE ~ NA),"
+"0","         model_number = str_c(model_number, target, sep=""-"")) %>% "
+"0","  arrange((model_number)) %>% "
+"0","  drop_na()"
+"1","[1m[33mError[39m in `mutate()`:[22m
+[38;5;232m[36mℹ[38;5;232m In argument: `target = ifelse(str_detect(model_number, ""_1""), ""face_mask"", ""other"")`.[39m
+[1mCaused by error:[22m
+[33m![39m object 'model_number' not found
+[90mRun `]8;;x-r-run:rlang::last_trace()rlang::last_trace()]8;;` to see where the error occurred.[39m
+"

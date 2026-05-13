@@ -1,0 +1,6 @@
+{
+    "min_impurity_decrease":0.0044359288,
+    "min_weight_fraction_leaf":0.0038991455,
+    "splitter":"best",
+    "achieved_value":0.6912071021
+}

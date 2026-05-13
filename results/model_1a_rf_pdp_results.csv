@@ -1,0 +1,2223 @@
+_vname_,_label_,_x_,_yhat_,_ids_
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.0,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.01,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.02,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.03,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.04,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.05,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.06,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.07,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.08,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.09,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.1,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.11,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.12,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.13,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.14,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.15,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.16,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.17,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.18,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.19,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.2,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.21,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.22,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.23,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.24,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.25,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.26,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.27,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.28,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.29,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.3,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.31,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.32,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.33,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.34,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.35000000000000003,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.36,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.37,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.38,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.39,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.4,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.41000000000000003,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.42,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.43,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.44,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.45,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.46,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.47000000000000003,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.48,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.49,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.5,0.41151547362485963,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.51,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.52,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.53,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.54,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.55,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.56,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.5700000000000001,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.58,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.59,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.6,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.61,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.62,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.63,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.64,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.65,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.66,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.67,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.68,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.6900000000000001,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.7000000000000001,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.71,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.72,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.73,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.74,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.75,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.76,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.77,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.78,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.79,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.8,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.81,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.8200000000000001,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.8300000000000001,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.84,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.85,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.86,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.87,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.88,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.89,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.9,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.91,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.92,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.93,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.9400000000000001,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.9500000000000001,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.96,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.97,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.98,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,0.99,0.414574059350998,0
+d1_comorbidities_Prefer_not_to_say,model_1a_rf_explainer,1.0,0.414574059350998,0
+WCRex2_Don't know,model_1a_rf_explainer,0.0,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.01,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.02,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.03,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.04,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.05,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.06,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.07,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.08,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.09,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.1,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.11,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.12,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.13,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.14,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.15,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.16,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.17,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.18,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.19,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.2,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.21,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.22,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.23,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.24,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.25,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.26,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.27,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.28,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.29,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.3,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.31,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.32,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.33,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.34,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.35000000000000003,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.36,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.37,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.38,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.39,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.4,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.41000000000000003,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.42,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.43,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.44,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.45,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.46,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.47000000000000003,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.48,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.49,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.5,0.4117159375139523,0
+WCRex2_Don't know,model_1a_rf_explainer,0.51,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.52,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.53,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.54,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.55,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.56,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.5700000000000001,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.58,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.59,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.6,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.61,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.62,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.63,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.64,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.65,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.66,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.67,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.68,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.6900000000000001,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.7000000000000001,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.71,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.72,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.73,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.74,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.75,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.76,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.77,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.78,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.79,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.8,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.81,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.8200000000000001,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.8300000000000001,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.84,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.85,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.86,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.87,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.88,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.89,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.9,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.91,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.92,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.93,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.9400000000000001,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.9500000000000001,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.96,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.97,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.98,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,0.99,0.4079281774347735,0
+WCRex2_Don't know,model_1a_rf_explainer,1.0,0.4079281774347735,0
+state_Northern Territory,model_1a_rf_explainer,0.0,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.01,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.02,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.03,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.04,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.05,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.06,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.07,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.08,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.09,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.1,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.11,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.12,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.13,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.14,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.15,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.16,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.17,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.18,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.19,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.2,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.21,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.22,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.23,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.24,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.25,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.26,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.27,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.28,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.29,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.3,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.31,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.32,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.33,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.34,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.35000000000000003,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.36,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.37,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.38,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.39,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.4,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.41000000000000003,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.42,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.43,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.44,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.45,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.46,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.47000000000000003,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.48,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.49,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.5,0.4115012526103668,0
+state_Northern Territory,model_1a_rf_explainer,0.51,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.52,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.53,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.54,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.55,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.56,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.5700000000000001,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.58,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.59,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.6,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.61,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.62,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.63,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.64,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.65,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.66,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.67,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.68,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.6900000000000001,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.7000000000000001,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.71,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.72,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.73,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.74,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.75,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.76,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.77,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.78,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.79,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.8,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.81,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.8200000000000001,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.8300000000000001,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.84,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.85,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.86,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.87,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.88,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.89,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.9,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.91,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.92,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.93,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.9400000000000001,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.9500000000000001,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.96,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.97,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.98,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,0.99,0.40694255613999925,0
+state_Northern Territory,model_1a_rf_explainer,1.0,0.40694255613999925,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.0,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.01,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.02,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.03,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.04,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.05,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.06,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.07,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.08,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.09,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.1,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.11,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.12,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.13,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.14,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.15,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.16,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.17,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.18,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.19,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.2,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.21,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.22,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.23,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.24,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.25,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.26,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.27,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.28,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.29,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.3,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.31,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.32,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.33,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.34,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.35000000000000003,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.36,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.37,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.38,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.39,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.4,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.41000000000000003,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.42,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.43,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.44,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.45,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.46,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.47000000000000003,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.48,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.49,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.5,0.41143129255047745,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.51,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.52,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.53,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.54,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.55,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.56,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.5700000000000001,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.58,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.59,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.6,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.61,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.62,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.63,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.64,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.65,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.66,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.67,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.68,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.6900000000000001,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.7000000000000001,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.71,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.72,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.73,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.74,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.75,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.76,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.77,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.78,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.79,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.8,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.81,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.8200000000000001,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.8300000000000001,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.84,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.85,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.86,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.87,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.88,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.89,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.9,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.91,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.92,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.93,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.9400000000000001,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.9500000000000001,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.96,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.97,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.98,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,0.99,0.4115828460590516,0
+WCRex2_No confidence at all,model_1a_rf_explainer,1.0,0.4115828460590516,0
+state_Victoria,model_1a_rf_explainer,0.0,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.01,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.02,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.03,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.04,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.05,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.06,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.07,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.08,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.09,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.1,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.11,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.12,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.13,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.14,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.15,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.16,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.17,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.18,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.19,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.2,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.21,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.22,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.23,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.24,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.25,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.26,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.27,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.28,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.29,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.3,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.31,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.32,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.33,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.34,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.35000000000000003,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.36,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.37,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.38,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.39,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.4,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.41000000000000003,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.42,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.43,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.44,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.45,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.46,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.47000000000000003,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.48,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.49,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.5,0.4118389829466725,0
+state_Victoria,model_1a_rf_explainer,0.51,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.52,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.53,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.54,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.55,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.56,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.5700000000000001,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.58,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.59,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.6,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.61,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.62,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.63,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.64,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.65,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.66,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.67,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.68,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.6900000000000001,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.7000000000000001,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.71,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.72,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.73,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.74,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.75,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.76,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.77,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.78,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.79,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.8,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.81,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.8200000000000001,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.8300000000000001,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.84,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.85,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.86,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.87,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.88,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.89,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.9,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.91,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.92,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.93,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.9400000000000001,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.9500000000000001,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.96,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.97,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.98,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,0.99,0.4009811527115434,0
+state_Victoria,model_1a_rf_explainer,1.0,0.4009811527115434,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.0,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.01,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.02,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.03,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.04,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.05,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.06,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.07,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.08,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.09,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.1,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.11,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.12,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.13,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.14,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.15,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.16,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.17,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.18,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.19,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.2,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.21,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.22,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.23,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.24,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.25,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.26,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.27,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.28,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.29,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.3,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.31,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.32,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.33,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.34,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.35000000000000003,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.36,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.37,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.38,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.39,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.4,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.41000000000000003,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.42,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.43,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.44,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.45,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.46,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.47000000000000003,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.48,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.49,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.5,0.41078282235182106,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.51,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.52,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.53,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.54,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.55,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.56,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.5700000000000001,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.58,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.59,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.6,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.61,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.62,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.63,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.64,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.65,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.66,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.67,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.68,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.6900000000000001,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.7000000000000001,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.71,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.72,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.73,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.74,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.75,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.76,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.77,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.78,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.79,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.8,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.81,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.8200000000000001,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.8300000000000001,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.84,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.85,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.86,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.87,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.88,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.89,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.9,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.91,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.92,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.93,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.9400000000000001,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.9500000000000001,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.96,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.97,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.98,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,0.99,0.41393398591488867,0
+WCRex2_Not very much confidence,model_1a_rf_explainer,1.0,0.41393398591488867,0
+d1_comorbidities_No,model_1a_rf_explainer,0.0,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.01,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.02,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.03,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.04,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.05,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.06,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.07,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.08,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.09,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.1,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.11,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.12,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.13,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.14,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.15,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.16,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.17,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.18,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.19,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.2,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.21,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.22,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.23,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.24,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.25,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.26,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.27,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.28,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.29,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.3,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.31,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.32,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.33,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.34,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.35000000000000003,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.36,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.37,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.38,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.39,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.4,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.41000000000000003,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.42,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.43,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.44,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.45,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.46,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.47000000000000003,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.48,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.49,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.5,0.4063004176863161,0
+d1_comorbidities_No,model_1a_rf_explainer,0.51,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.52,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.53,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.54,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.55,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.56,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.5700000000000001,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.58,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.59,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.6,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.61,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.62,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.63,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.64,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.65,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.66,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.67,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.68,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.6900000000000001,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.7000000000000001,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.71,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.72,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.73,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.74,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.75,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.76,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.77,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.78,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.79,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.8,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.81,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.8200000000000001,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.8300000000000001,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.84,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.85,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.86,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.87,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.88,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.89,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.9,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.91,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.92,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.93,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.9400000000000001,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.9500000000000001,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.96,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.97,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.98,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,0.99,0.41838031902621947,0
+d1_comorbidities_No,model_1a_rf_explainer,1.0,0.41838031902621947,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.0,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.01,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.02,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.03,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.04,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.05,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.06,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.07,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.08,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.09,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.1,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.11,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.12,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.13,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.14,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.15,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.16,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.17,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.18,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.19,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.2,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.21,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.22,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.23,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.24,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.25,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.26,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.27,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.28,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.29,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.3,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.31,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.32,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.33,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.34,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.35000000000000003,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.36,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.37,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.38,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.39,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.4,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.41000000000000003,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.42,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.43,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.44,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.45,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.46,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.47000000000000003,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.48,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.49,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.5,0.40892951188669285,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.51,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.52,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.53,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.54,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.55,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.56,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.5700000000000001,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.58,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.59,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.6,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.61,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.62,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.63,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.64,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.65,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.66,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.67,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.68,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.6900000000000001,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.7000000000000001,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.71,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.72,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.73,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.74,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.75,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.76,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.77,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.78,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.79,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.8,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.81,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.8200000000000001,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.8300000000000001,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.84,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.85,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.86,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.87,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.88,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.89,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.9,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.91,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.92,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.93,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.9400000000000001,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.9500000000000001,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.96,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.97,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.98,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,0.99,0.4162271563495257,0
+WCRex2_A lot of confidence,model_1a_rf_explainer,1.0,0.4162271563495257,0
+gender_Male,model_1a_rf_explainer,0.0,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.01,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.02,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.03,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.04,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.05,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.06,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.07,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.08,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.09,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.1,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.11,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.12,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.13,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.14,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.15,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.16,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.17,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.18,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.19,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.2,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.21,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.22,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.23,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.24,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.25,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.26,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.27,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.28,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.29,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.3,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.31,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.32,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.33,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.34,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.35000000000000003,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.36,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.37,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.38,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.39,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.4,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.41000000000000003,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.42,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.43,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.44,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.45,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.46,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.47000000000000003,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.48,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.49,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.5,0.40920403652718107,0
+gender_Male,model_1a_rf_explainer,0.51,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.52,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.53,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.54,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.55,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.56,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.5700000000000001,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.58,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.59,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.6,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.61,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.62,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.63,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.64,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.65,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.66,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.67,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.68,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.6900000000000001,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.7000000000000001,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.71,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.72,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.73,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.74,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.75,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.76,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.77,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.78,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.79,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.8,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.81,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.8200000000000001,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.8300000000000001,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.84,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.85,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.86,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.87,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.88,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.89,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.9,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.91,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.92,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.93,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.9400000000000001,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.9500000000000001,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.96,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.97,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.98,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,0.99,0.41640710746718623,0
+gender_Male,model_1a_rf_explainer,1.0,0.41640710746718623,0
+state_Tasmania,model_1a_rf_explainer,0.0,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.01,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.02,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.03,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.04,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.05,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.06,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.07,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.08,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.09,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.1,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.11,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.12,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.13,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.14,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.15,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.16,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.17,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.18,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.19,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.2,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.21,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.22,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.23,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.24,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.25,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.26,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.27,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.28,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.29,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.3,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.31,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.32,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.33,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.34,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.35000000000000003,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.36,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.37,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.38,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.39,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.4,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.41000000000000003,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.42,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.43,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.44,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.45,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.46,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.47000000000000003,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.48,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.49,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.5,0.41587959929502677,0
+state_Tasmania,model_1a_rf_explainer,0.51,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.52,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.53,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.54,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.55,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.56,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.5700000000000001,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.58,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.59,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.6,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.61,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.62,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.63,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.64,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.65,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.66,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.67,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.68,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.6900000000000001,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.7000000000000001,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.71,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.72,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.73,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.74,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.75,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.76,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.77,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.78,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.79,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.8,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.81,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.8200000000000001,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.8300000000000001,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.84,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.85,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.86,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.87,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.88,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.89,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.9,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.91,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.92,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.93,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.9400000000000001,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.9500000000000001,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.96,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.97,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.98,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,0.99,0.3309102032162374,0
+state_Tasmania,model_1a_rf_explainer,1.0,0.3309102032162374,0
+state_Western Australia,model_1a_rf_explainer,0.0,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.01,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.02,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.03,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.04,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.05,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.06,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.07,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.08,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.09,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.1,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.11,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.12,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.13,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.14,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.15,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.16,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.17,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.18,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.19,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.2,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.21,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.22,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.23,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.24,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.25,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.26,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.27,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.28,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.29,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.3,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.31,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.32,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.33,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.34,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.35000000000000003,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.36,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.37,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.38,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.39,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.4,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.41000000000000003,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.42,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.43,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.44,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.45,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.46,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.47000000000000003,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.48,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.49,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.5,0.4133663607068889,0
+state_Western Australia,model_1a_rf_explainer,0.51,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.52,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.53,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.54,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.55,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.56,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.5700000000000001,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.58,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.59,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.6,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.61,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.62,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.63,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.64,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.65,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.66,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.67,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.68,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.6900000000000001,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.7000000000000001,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.71,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.72,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.73,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.74,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.75,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.76,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.77,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.78,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.79,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.8,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.81,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.8200000000000001,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.8300000000000001,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.84,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.85,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.86,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.87,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.88,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.89,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.9,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.91,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.92,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.93,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.9400000000000001,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.9500000000000001,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.96,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.97,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.98,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,0.99,0.37495298637494984,0
+state_Western Australia,model_1a_rf_explainer,1.0,0.37495298637494984,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.0,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.01,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.02,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.03,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.04,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.05,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.06,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.07,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.08,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.09,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.1,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.11,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.12,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.13,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.14,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.15,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.16,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.17,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.18,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.19,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.2,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.21,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.22,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.23,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.24,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.25,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.26,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.27,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.28,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.29,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.3,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.31,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.32,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.33,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.34,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.35000000000000003,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.36,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.37,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.38,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.39,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.4,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.41000000000000003,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.42,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.43,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.44,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.45,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.46,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.47000000000000003,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.48,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.49,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.5,0.4199453626150133,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.51,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.52,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.53,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.54,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.55,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.56,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.5700000000000001,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.58,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.59,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.6,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.61,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.62,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.63,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.64,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.65,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.66,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.67,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.68,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.6900000000000001,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.7000000000000001,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.71,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.72,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.73,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.74,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.75,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.76,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.77,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.78,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.79,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.8,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.81,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.8200000000000001,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.8300000000000001,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.84,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.85,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.86,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.87,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.88,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.89,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.9,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.91,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.92,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.93,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.9400000000000001,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.9500000000000001,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.96,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.97,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.98,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,0.99,0.40428023781872235,0
+d1_comorbidities_Yes,model_1a_rf_explainer,1.0,0.40428023781872235,0
+state_South Australia,model_1a_rf_explainer,0.0,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.01,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.02,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.03,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.04,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.05,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.06,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.07,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.08,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.09,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.1,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.11,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.12,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.13,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.14,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.15,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.16,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.17,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.18,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.19,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.2,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.21,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.22,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.23,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.24,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.25,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.26,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.27,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.28,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.29,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.3,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.31,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.32,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.33,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.34,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.35000000000000003,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.36,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.37,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.38,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.39,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.4,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.41000000000000003,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.42,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.43,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.44,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.45,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.46,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.47000000000000003,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.48,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.49,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.5,0.4147456002776155,0
+state_South Australia,model_1a_rf_explainer,0.51,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.52,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.53,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.54,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.55,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.56,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.5700000000000001,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.58,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.59,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.6,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.61,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.62,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.63,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.64,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.65,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.66,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.67,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.68,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.6900000000000001,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.7000000000000001,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.71,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.72,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.73,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.74,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.75,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.76,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.77,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.78,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.79,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.8,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.81,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.8200000000000001,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.8300000000000001,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.84,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.85,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.86,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.87,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.88,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.89,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.9,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.91,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.92,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.93,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.9400000000000001,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.9500000000000001,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.96,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.97,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.98,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,0.99,0.37904401483676725,0
+state_South Australia,model_1a_rf_explainer,1.0,0.37904401483676725,0
+state_Queensland,model_1a_rf_explainer,0.0,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.01,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.02,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.03,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.04,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.05,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.06,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.07,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.08,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.09,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.1,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.11,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.12,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.13,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.14,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.15,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.16,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.17,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.18,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.19,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.2,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.21,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.22,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.23,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.24,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.25,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.26,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.27,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.28,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.29,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.3,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.31,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.32,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.33,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.34,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.35000000000000003,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.36,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.37,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.38,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.39,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.4,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.41000000000000003,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.42,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.43,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.44,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.45,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.46,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.47000000000000003,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.48,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.49,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.5,0.4188079682919804,0
+state_Queensland,model_1a_rf_explainer,0.51,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.52,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.53,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.54,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.55,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.56,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.5700000000000001,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.58,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.59,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.6,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.61,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.62,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.63,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.64,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.65,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.66,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.67,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.68,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.6900000000000001,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.7000000000000001,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.71,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.72,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.73,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.74,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.75,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.76,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.77,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.78,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.79,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.8,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.81,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.8200000000000001,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.8300000000000001,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.84,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.85,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.86,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.87,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.88,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.89,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.9,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.91,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.92,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.93,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.9400000000000001,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.9500000000000001,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.96,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.97,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.98,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,0.99,0.3722242499846633,0
+state_Queensland,model_1a_rf_explainer,1.0,0.3722242499846633,0
+household_size,model_1a_rf_explainer,1.0,0.40153739320818743,0
+household_size,model_1a_rf_explainer,1.07,0.40153739320818743,0
+household_size,model_1a_rf_explainer,1.1400000000000001,0.40153739320818743,0
+household_size,model_1a_rf_explainer,1.21,0.40153739320818743,0
+household_size,model_1a_rf_explainer,1.28,0.40153739320818743,0
+household_size,model_1a_rf_explainer,1.35,0.40153739320818743,0
+household_size,model_1a_rf_explainer,1.42,0.40153739320818743,0
+household_size,model_1a_rf_explainer,1.49,0.40153739320818743,0
+household_size,model_1a_rf_explainer,1.56,0.4043956638551549,0
+household_size,model_1a_rf_explainer,1.6300000000000001,0.4043956638551549,0
+household_size,model_1a_rf_explainer,1.7000000000000002,0.4043956638551549,0
+household_size,model_1a_rf_explainer,1.77,0.4043956638551549,0
+household_size,model_1a_rf_explainer,1.84,0.4043956638551549,0
+household_size,model_1a_rf_explainer,1.9100000000000001,0.4043956638551549,0
+household_size,model_1a_rf_explainer,1.98,0.4043956638551549,0
+household_size,model_1a_rf_explainer,2.05,0.4043878207179,0
+household_size,model_1a_rf_explainer,2.12,0.4043878207179,0
+household_size,model_1a_rf_explainer,2.1900000000000004,0.4043878207179,0
+household_size,model_1a_rf_explainer,2.2600000000000002,0.4043878207179,0
+household_size,model_1a_rf_explainer,2.33,0.4043878207179,0
+household_size,model_1a_rf_explainer,2.4000000000000004,0.4043878207179,0
+household_size,model_1a_rf_explainer,2.47,0.4043878207179,0
+household_size,model_1a_rf_explainer,2.54,0.42022949178211855,0
+household_size,model_1a_rf_explainer,2.6100000000000003,0.42022949178211855,0
+household_size,model_1a_rf_explainer,2.68,0.42022949178211855,0
+household_size,model_1a_rf_explainer,2.75,0.42022949178211855,0
+household_size,model_1a_rf_explainer,2.8200000000000003,0.42022949178211855,0
+household_size,model_1a_rf_explainer,2.89,0.42022949178211855,0
+household_size,model_1a_rf_explainer,2.96,0.42022949178211855,0
+household_size,model_1a_rf_explainer,3.0300000000000002,0.42022047217427544,0
+household_size,model_1a_rf_explainer,3.1,0.42022047217427544,0
+household_size,model_1a_rf_explainer,3.1700000000000004,0.42022047217427544,0
+household_size,model_1a_rf_explainer,3.24,0.42022047217427544,0
+household_size,model_1a_rf_explainer,3.31,0.42022047217427544,0
+household_size,model_1a_rf_explainer,3.3800000000000003,0.42022047217427544,0
+household_size,model_1a_rf_explainer,3.45,0.42022047217427544,0
+household_size,model_1a_rf_explainer,3.5200000000000005,0.42250665335761883,0
+household_size,model_1a_rf_explainer,3.5900000000000003,0.42250665335761883,0
+household_size,model_1a_rf_explainer,3.66,0.42250665335761883,0
+household_size,model_1a_rf_explainer,3.7300000000000004,0.42250665335761883,0
+household_size,model_1a_rf_explainer,3.8000000000000003,0.42250665335761883,0
+household_size,model_1a_rf_explainer,3.87,0.42250665335761883,0
+household_size,model_1a_rf_explainer,3.9400000000000004,0.42250665335761883,0
+household_size,model_1a_rf_explainer,4.01,0.42250665335761883,0
+household_size,model_1a_rf_explainer,4.08,0.42250665335761883,0
+household_size,model_1a_rf_explainer,4.15,0.42250665335761883,0
+household_size,model_1a_rf_explainer,4.220000000000001,0.42250665335761883,0
+household_size,model_1a_rf_explainer,4.290000000000001,0.42250665335761883,0
+household_size,model_1a_rf_explainer,4.36,0.42250665335761883,0
+household_size,model_1a_rf_explainer,4.43,0.42250665335761883,0
+household_size,model_1a_rf_explainer,4.5,0.42250665335761883,0
+household_size,model_1a_rf_explainer,4.57,0.4296898241445362,0
+household_size,model_1a_rf_explainer,4.640000000000001,0.4296898241445362,0
+household_size,model_1a_rf_explainer,4.710000000000001,0.4296898241445362,0
+household_size,model_1a_rf_explainer,4.78,0.4296898241445362,0
+household_size,model_1a_rf_explainer,4.8500000000000005,0.4296898241445362,0
+household_size,model_1a_rf_explainer,4.92,0.4296898241445362,0
+household_size,model_1a_rf_explainer,4.99,0.4296898241445362,0
+household_size,model_1a_rf_explainer,5.0600000000000005,0.4296898241445362,0
+household_size,model_1a_rf_explainer,5.130000000000001,0.4296898241445362,0
+household_size,model_1a_rf_explainer,5.2,0.4296898241445362,0
+household_size,model_1a_rf_explainer,5.2700000000000005,0.4296898241445362,0
+household_size,model_1a_rf_explainer,5.340000000000001,0.4296898241445362,0
+household_size,model_1a_rf_explainer,5.41,0.4296898241445362,0
+household_size,model_1a_rf_explainer,5.48,0.4296898241445362,0
+household_size,model_1a_rf_explainer,5.550000000000001,0.4356580657945627,0
+household_size,model_1a_rf_explainer,5.62,0.4356580657945627,0
+household_size,model_1a_rf_explainer,5.69,0.4356580657945627,0
+household_size,model_1a_rf_explainer,5.760000000000001,0.4356580657945627,0
+household_size,model_1a_rf_explainer,5.83,0.4356580657945627,0
+household_size,model_1a_rf_explainer,5.9,0.4356580657945627,0
+household_size,model_1a_rf_explainer,5.970000000000001,0.4356580657945627,0
+household_size,model_1a_rf_explainer,6.040000000000001,0.4356580657945627,0
+household_size,model_1a_rf_explainer,6.11,0.4356580657945627,0
+household_size,model_1a_rf_explainer,6.180000000000001,0.4356580657945627,0
+household_size,model_1a_rf_explainer,6.250000000000001,0.4356580657945627,0
+household_size,model_1a_rf_explainer,6.32,0.4356580657945627,0
+household_size,model_1a_rf_explainer,6.390000000000001,0.4356580657945627,0
+household_size,model_1a_rf_explainer,6.460000000000001,0.4356580657945627,0
+household_size,model_1a_rf_explainer,6.53,0.43686786685168416,0
+household_size,model_1a_rf_explainer,6.6000000000000005,0.43686786685168416,0
+household_size,model_1a_rf_explainer,6.670000000000001,0.43686786685168416,0
+household_size,model_1a_rf_explainer,6.74,0.43686786685168416,0
+household_size,model_1a_rf_explainer,6.8100000000000005,0.43686786685168416,0
+household_size,model_1a_rf_explainer,6.880000000000001,0.43686786685168416,0
+household_size,model_1a_rf_explainer,6.95,0.43686786685168416,0
+household_size,model_1a_rf_explainer,7.0200000000000005,0.43686786685168416,0
+household_size,model_1a_rf_explainer,7.090000000000001,0.43686786685168416,0
+household_size,model_1a_rf_explainer,7.16,0.43686786685168416,0
+household_size,model_1a_rf_explainer,7.23,0.43686786685168416,0
+household_size,model_1a_rf_explainer,7.300000000000001,0.43686786685168416,0
+household_size,model_1a_rf_explainer,7.370000000000001,0.43686786685168416,0
+household_size,model_1a_rf_explainer,7.44,0.43686786685168416,0
+household_size,model_1a_rf_explainer,7.510000000000001,0.43819838091059626,0
+household_size,model_1a_rf_explainer,7.580000000000001,0.43819838091059626,0
+household_size,model_1a_rf_explainer,7.65,0.43819838091059626,0
+household_size,model_1a_rf_explainer,7.720000000000001,0.43819838091059626,0
+household_size,model_1a_rf_explainer,7.790000000000001,0.43819838091059626,0
+household_size,model_1a_rf_explainer,7.86,0.43819838091059626,0
+household_size,model_1a_rf_explainer,7.930000000000001,0.43819838091059626,0
+household_size,model_1a_rf_explainer,8.0,0.43819838091059626,0
+cantril_ladder,model_1a_rf_explainer,0.0,0.40758515620787117,0
+cantril_ladder,model_1a_rf_explainer,0.1,0.40758515620787117,0
+cantril_ladder,model_1a_rf_explainer,0.2,0.40758515620787117,0
+cantril_ladder,model_1a_rf_explainer,0.30000000000000004,0.40758515620787117,0
+cantril_ladder,model_1a_rf_explainer,0.4,0.40758515620787117,0
+cantril_ladder,model_1a_rf_explainer,0.5,0.40758515620787117,0
+cantril_ladder,model_1a_rf_explainer,0.6000000000000001,0.40844727500766087,0
+cantril_ladder,model_1a_rf_explainer,0.7000000000000001,0.40844727500766087,0
+cantril_ladder,model_1a_rf_explainer,0.8,0.40844727500766087,0
+cantril_ladder,model_1a_rf_explainer,0.9,0.40844727500766087,0
+cantril_ladder,model_1a_rf_explainer,1.0,0.40844727500766087,0
+cantril_ladder,model_1a_rf_explainer,1.1,0.40844727500766087,0
+cantril_ladder,model_1a_rf_explainer,1.2000000000000002,0.40844727500766087,0
+cantril_ladder,model_1a_rf_explainer,1.3,0.40844727500766087,0
+cantril_ladder,model_1a_rf_explainer,1.4000000000000001,0.40844727500766087,0
+cantril_ladder,model_1a_rf_explainer,1.5,0.40844727500766087,0
+cantril_ladder,model_1a_rf_explainer,1.6,0.4085052388553595,0
+cantril_ladder,model_1a_rf_explainer,1.7000000000000002,0.4085052388553595,0
+cantril_ladder,model_1a_rf_explainer,1.8,0.4085052388553595,0
+cantril_ladder,model_1a_rf_explainer,1.9000000000000001,0.4085052388553595,0
+cantril_ladder,model_1a_rf_explainer,2.0,0.4085052388553595,0
+cantril_ladder,model_1a_rf_explainer,2.1,0.4085052388553595,0
+cantril_ladder,model_1a_rf_explainer,2.2,0.4085052388553595,0
+cantril_ladder,model_1a_rf_explainer,2.3000000000000003,0.4085052388553595,0
+cantril_ladder,model_1a_rf_explainer,2.4000000000000004,0.4085052388553595,0
+cantril_ladder,model_1a_rf_explainer,2.5,0.4085052388553595,0
+cantril_ladder,model_1a_rf_explainer,2.6,0.406843524534788,0
+cantril_ladder,model_1a_rf_explainer,2.7,0.406843524534788,0
+cantril_ladder,model_1a_rf_explainer,2.8000000000000003,0.406843524534788,0
+cantril_ladder,model_1a_rf_explainer,2.9000000000000004,0.406843524534788,0
+cantril_ladder,model_1a_rf_explainer,3.0,0.406843524534788,0
+cantril_ladder,model_1a_rf_explainer,3.1,0.406843524534788,0
+cantril_ladder,model_1a_rf_explainer,3.2,0.406843524534788,0
+cantril_ladder,model_1a_rf_explainer,3.3000000000000003,0.406843524534788,0
+cantril_ladder,model_1a_rf_explainer,3.4000000000000004,0.406843524534788,0
+cantril_ladder,model_1a_rf_explainer,3.5,0.406843524534788,0
+cantril_ladder,model_1a_rf_explainer,3.6,0.4065135809905544,0
+cantril_ladder,model_1a_rf_explainer,3.7,0.4065135809905544,0
+cantril_ladder,model_1a_rf_explainer,3.8000000000000003,0.4065135809905544,0
+cantril_ladder,model_1a_rf_explainer,3.9000000000000004,0.4065135809905544,0
+cantril_ladder,model_1a_rf_explainer,4.0,0.4065135809905544,0
+cantril_ladder,model_1a_rf_explainer,4.1000000000000005,0.4065861062430796,0
+cantril_ladder,model_1a_rf_explainer,4.2,0.4065861062430796,0
+cantril_ladder,model_1a_rf_explainer,4.3,0.4065861062430796,0
+cantril_ladder,model_1a_rf_explainer,4.4,0.4065861062430796,0
+cantril_ladder,model_1a_rf_explainer,4.5,0.4065861062430796,0
+cantril_ladder,model_1a_rf_explainer,4.6000000000000005,0.40823034102547373,0
+cantril_ladder,model_1a_rf_explainer,4.7,0.40823034102547373,0
+cantril_ladder,model_1a_rf_explainer,4.800000000000001,0.40823034102547373,0
+cantril_ladder,model_1a_rf_explainer,4.9,0.40823034102547373,0
+cantril_ladder,model_1a_rf_explainer,5.0,0.40823034102547373,0
+cantril_ladder,model_1a_rf_explainer,5.1000000000000005,0.40826326837590105,0
+cantril_ladder,model_1a_rf_explainer,5.2,0.40826326837590105,0
+cantril_ladder,model_1a_rf_explainer,5.300000000000001,0.40826326837590105,0
+cantril_ladder,model_1a_rf_explainer,5.4,0.40826326837590105,0
+cantril_ladder,model_1a_rf_explainer,5.5,0.40826326837590105,0
+cantril_ladder,model_1a_rf_explainer,5.6000000000000005,0.40889718192905217,0
+cantril_ladder,model_1a_rf_explainer,5.7,0.40889718192905217,0
+cantril_ladder,model_1a_rf_explainer,5.800000000000001,0.40889718192905217,0
+cantril_ladder,model_1a_rf_explainer,5.9,0.40889718192905217,0
+cantril_ladder,model_1a_rf_explainer,6.0,0.40889718192905217,0
+cantril_ladder,model_1a_rf_explainer,6.1000000000000005,0.40888884859571883,0
+cantril_ladder,model_1a_rf_explainer,6.2,0.40888884859571883,0
+cantril_ladder,model_1a_rf_explainer,6.300000000000001,0.40888884859571883,0
+cantril_ladder,model_1a_rf_explainer,6.4,0.40888884859571883,0
+cantril_ladder,model_1a_rf_explainer,6.5,0.40888884859571883,0
+cantril_ladder,model_1a_rf_explainer,6.6000000000000005,0.41217261135836925,0
+cantril_ladder,model_1a_rf_explainer,6.7,0.41217261135836925,0
+cantril_ladder,model_1a_rf_explainer,6.800000000000001,0.41217261135836925,0
+cantril_ladder,model_1a_rf_explainer,6.9,0.41217261135836925,0
+cantril_ladder,model_1a_rf_explainer,7.0,0.41217261135836925,0
+cantril_ladder,model_1a_rf_explainer,7.1000000000000005,0.4121730216147795,0
+cantril_ladder,model_1a_rf_explainer,7.2,0.4121730216147795,0
+cantril_ladder,model_1a_rf_explainer,7.300000000000001,0.4121730216147795,0
+cantril_ladder,model_1a_rf_explainer,7.4,0.4121730216147795,0
+cantril_ladder,model_1a_rf_explainer,7.5,0.4121730216147795,0
+cantril_ladder,model_1a_rf_explainer,7.6000000000000005,0.4175932193378933,0
+cantril_ladder,model_1a_rf_explainer,7.7,0.4175932193378933,0
+cantril_ladder,model_1a_rf_explainer,7.800000000000001,0.4175932193378933,0
+cantril_ladder,model_1a_rf_explainer,7.9,0.4175932193378933,0
+cantril_ladder,model_1a_rf_explainer,8.0,0.4175932193378933,0
+cantril_ladder,model_1a_rf_explainer,8.1,0.4175932193378933,0
+cantril_ladder,model_1a_rf_explainer,8.200000000000001,0.4175932193378933,0
+cantril_ladder,model_1a_rf_explainer,8.3,0.4175932193378933,0
+cantril_ladder,model_1a_rf_explainer,8.4,0.4175932193378933,0
+cantril_ladder,model_1a_rf_explainer,8.5,0.4175932193378933,0
+cantril_ladder,model_1a_rf_explainer,8.6,0.4405651222649713,0
+cantril_ladder,model_1a_rf_explainer,8.700000000000001,0.4405651222649713,0
+cantril_ladder,model_1a_rf_explainer,8.8,0.4405651222649713,0
+cantril_ladder,model_1a_rf_explainer,8.9,0.4405651222649713,0
+cantril_ladder,model_1a_rf_explainer,9.0,0.4405651222649713,0
+cantril_ladder,model_1a_rf_explainer,9.1,0.4405651222649713,0
+cantril_ladder,model_1a_rf_explainer,9.200000000000001,0.4405651222649713,0
+cantril_ladder,model_1a_rf_explainer,9.3,0.4405651222649713,0
+cantril_ladder,model_1a_rf_explainer,9.4,0.4405651222649713,0
+cantril_ladder,model_1a_rf_explainer,9.5,0.4405651222649713,0
+cantril_ladder,model_1a_rf_explainer,9.600000000000001,0.4515444282342101,0
+cantril_ladder,model_1a_rf_explainer,9.700000000000001,0.4515444282342101,0
+cantril_ladder,model_1a_rf_explainer,9.8,0.4515444282342101,0
+cantril_ladder,model_1a_rf_explainer,9.9,0.4515444282342101,0
+cantril_ladder,model_1a_rf_explainer,10.0,0.4515444282342101,0
+r1_2,model_1a_rf_explainer,1.0,0.4053357891846963,0
+r1_2,model_1a_rf_explainer,1.06,0.4053357891846963,0
+r1_2,model_1a_rf_explainer,1.12,0.4053357891846963,0
+r1_2,model_1a_rf_explainer,1.18,0.4053357891846963,0
+r1_2,model_1a_rf_explainer,1.24,0.4053357891846963,0
+r1_2,model_1a_rf_explainer,1.3,0.4053357891846963,0
+r1_2,model_1a_rf_explainer,1.3599999999999999,0.4053357891846963,0
+r1_2,model_1a_rf_explainer,1.42,0.4053357891846963,0
+r1_2,model_1a_rf_explainer,1.48,0.4053357891846963,0
+r1_2,model_1a_rf_explainer,1.54,0.4004684955540588,0
+r1_2,model_1a_rf_explainer,1.6,0.4004684955540588,0
+r1_2,model_1a_rf_explainer,1.66,0.4004684955540588,0
+r1_2,model_1a_rf_explainer,1.72,0.4004684955540588,0
+r1_2,model_1a_rf_explainer,1.78,0.4004684955540588,0
+r1_2,model_1a_rf_explainer,1.8399999999999999,0.4004684955540588,0
+r1_2,model_1a_rf_explainer,1.9,0.4004684955540588,0
+r1_2,model_1a_rf_explainer,1.96,0.4004684955540588,0
+r1_2,model_1a_rf_explainer,2.02,0.4004684955540588,0
+r1_2,model_1a_rf_explainer,2.08,0.4004684955540588,0
+r1_2,model_1a_rf_explainer,2.1399999999999997,0.4004684955540588,0
+r1_2,model_1a_rf_explainer,2.2,0.4004684955540588,0
+r1_2,model_1a_rf_explainer,2.26,0.4004684955540588,0
+r1_2,model_1a_rf_explainer,2.32,0.4004684955540588,0
+r1_2,model_1a_rf_explainer,2.38,0.4004684955540588,0
+r1_2,model_1a_rf_explainer,2.44,0.4004684955540588,0
+r1_2,model_1a_rf_explainer,2.5,0.4004684955540588,0
+r1_2,model_1a_rf_explainer,2.56,0.40097171713621527,0
+r1_2,model_1a_rf_explainer,2.62,0.40097171713621527,0
+r1_2,model_1a_rf_explainer,2.6799999999999997,0.40097171713621527,0
+r1_2,model_1a_rf_explainer,2.74,0.40097171713621527,0
+r1_2,model_1a_rf_explainer,2.8,0.40097171713621527,0
+r1_2,model_1a_rf_explainer,2.86,0.40097171713621527,0
+r1_2,model_1a_rf_explainer,2.92,0.40097171713621527,0
+r1_2,model_1a_rf_explainer,2.98,0.40097171713621527,0
+r1_2,model_1a_rf_explainer,3.04,0.40099087647150367,0
+r1_2,model_1a_rf_explainer,3.1,0.40099087647150367,0
+r1_2,model_1a_rf_explainer,3.16,0.40099087647150367,0
+r1_2,model_1a_rf_explainer,3.2199999999999998,0.40099087647150367,0
+r1_2,model_1a_rf_explainer,3.28,0.40099087647150367,0
+r1_2,model_1a_rf_explainer,3.34,0.40099087647150367,0
+r1_2,model_1a_rf_explainer,3.4,0.40099087647150367,0
+r1_2,model_1a_rf_explainer,3.46,0.40099087647150367,0
+r1_2,model_1a_rf_explainer,3.52,0.4082171257960746,0
+r1_2,model_1a_rf_explainer,3.58,0.4082171257960746,0
+r1_2,model_1a_rf_explainer,3.6399999999999997,0.4082171257960746,0
+r1_2,model_1a_rf_explainer,3.6999999999999997,0.4082171257960746,0
+r1_2,model_1a_rf_explainer,3.76,0.4082171257960746,0
+r1_2,model_1a_rf_explainer,3.82,0.4082171257960746,0
+r1_2,model_1a_rf_explainer,3.88,0.4082171257960746,0
+r1_2,model_1a_rf_explainer,3.94,0.4082171257960746,0
+r1_2,model_1a_rf_explainer,4.0,0.4082171257960746,0
+r1_2,model_1a_rf_explainer,4.0600000000000005,0.4082171257960746,0
+r1_2,model_1a_rf_explainer,4.12,0.4082171257960746,0
+r1_2,model_1a_rf_explainer,4.18,0.4082171257960746,0
+r1_2,model_1a_rf_explainer,4.24,0.4082171257960746,0
+r1_2,model_1a_rf_explainer,4.3,0.4082171257960746,0
+r1_2,model_1a_rf_explainer,4.359999999999999,0.4082171257960746,0
+r1_2,model_1a_rf_explainer,4.42,0.4082171257960746,0
+r1_2,model_1a_rf_explainer,4.48,0.4082171257960746,0
+r1_2,model_1a_rf_explainer,4.54,0.4428842512926397,0
+r1_2,model_1a_rf_explainer,4.6,0.4428842512926397,0
+r1_2,model_1a_rf_explainer,4.66,0.4428842512926397,0
+r1_2,model_1a_rf_explainer,4.72,0.4428842512926397,0
+r1_2,model_1a_rf_explainer,4.779999999999999,0.4428842512926397,0
+r1_2,model_1a_rf_explainer,4.84,0.4428842512926397,0
+r1_2,model_1a_rf_explainer,4.9,0.4428842512926397,0
+r1_2,model_1a_rf_explainer,4.96,0.4428842512926397,0
+r1_2,model_1a_rf_explainer,5.02,0.4428768438852323,0
+r1_2,model_1a_rf_explainer,5.08,0.4428768438852323,0
+r1_2,model_1a_rf_explainer,5.14,0.4428768438852323,0
+r1_2,model_1a_rf_explainer,5.2,0.4428768438852323,0
+r1_2,model_1a_rf_explainer,5.26,0.4428768438852323,0
+r1_2,model_1a_rf_explainer,5.32,0.4428768438852323,0
+r1_2,model_1a_rf_explainer,5.38,0.4428768438852323,0
+r1_2,model_1a_rf_explainer,5.4399999999999995,0.4428768438852323,0
+r1_2,model_1a_rf_explainer,5.5,0.4428768438852323,0
+r1_2,model_1a_rf_explainer,5.56,0.45974877558391875,0
+r1_2,model_1a_rf_explainer,5.62,0.45974877558391875,0
+r1_2,model_1a_rf_explainer,5.68,0.45974877558391875,0
+r1_2,model_1a_rf_explainer,5.74,0.45974877558391875,0
+r1_2,model_1a_rf_explainer,5.8,0.45974877558391875,0
+r1_2,model_1a_rf_explainer,5.859999999999999,0.45974877558391875,0
+r1_2,model_1a_rf_explainer,5.92,0.45974877558391875,0
+r1_2,model_1a_rf_explainer,5.9799999999999995,0.45974877558391875,0
+r1_2,model_1a_rf_explainer,6.04,0.45966388669502983,0
+r1_2,model_1a_rf_explainer,6.1,0.45966388669502983,0
+r1_2,model_1a_rf_explainer,6.16,0.45966388669502983,0
+r1_2,model_1a_rf_explainer,6.22,0.45966388669502983,0
+r1_2,model_1a_rf_explainer,6.279999999999999,0.45966388669502983,0
+r1_2,model_1a_rf_explainer,6.34,0.45966388669502983,0
+r1_2,model_1a_rf_explainer,6.3999999999999995,0.45966388669502983,0
+r1_2,model_1a_rf_explainer,6.46,0.45966388669502983,0
+r1_2,model_1a_rf_explainer,6.52,0.46611198672841964,0
+r1_2,model_1a_rf_explainer,6.58,0.46611198672841964,0
+r1_2,model_1a_rf_explainer,6.64,0.46611198672841964,0
+r1_2,model_1a_rf_explainer,6.7,0.46611198672841964,0
+r1_2,model_1a_rf_explainer,6.76,0.46611198672841964,0
+r1_2,model_1a_rf_explainer,6.819999999999999,0.46611198672841964,0
+r1_2,model_1a_rf_explainer,6.88,0.46611198672841964,0
+r1_2,model_1a_rf_explainer,6.9399999999999995,0.46611198672841964,0
+r1_2,model_1a_rf_explainer,7.0,0.46611198672841964,0
+r1_1,model_1a_rf_explainer,1.0,0.36325275277100355,0
+r1_1,model_1a_rf_explainer,1.06,0.36325275277100355,0
+r1_1,model_1a_rf_explainer,1.12,0.36325275277100355,0
+r1_1,model_1a_rf_explainer,1.18,0.36325275277100355,0
+r1_1,model_1a_rf_explainer,1.24,0.36325275277100355,0
+r1_1,model_1a_rf_explainer,1.3,0.36325275277100355,0
+r1_1,model_1a_rf_explainer,1.3599999999999999,0.36325275277100355,0
+r1_1,model_1a_rf_explainer,1.42,0.36325275277100355,0
+r1_1,model_1a_rf_explainer,1.48,0.36325275277100355,0
+r1_1,model_1a_rf_explainer,1.54,0.3641482089777947,0
+r1_1,model_1a_rf_explainer,1.6,0.3641482089777947,0
+r1_1,model_1a_rf_explainer,1.66,0.3641482089777947,0
+r1_1,model_1a_rf_explainer,1.72,0.3641482089777947,0
+r1_1,model_1a_rf_explainer,1.78,0.3641482089777947,0
+r1_1,model_1a_rf_explainer,1.8399999999999999,0.3641482089777947,0
+r1_1,model_1a_rf_explainer,1.9,0.3641482089777947,0
+r1_1,model_1a_rf_explainer,1.96,0.3641482089777947,0
+r1_1,model_1a_rf_explainer,2.02,0.3641482089777947,0
+r1_1,model_1a_rf_explainer,2.08,0.3641482089777947,0
+r1_1,model_1a_rf_explainer,2.1399999999999997,0.3641482089777947,0
+r1_1,model_1a_rf_explainer,2.2,0.3641482089777947,0
+r1_1,model_1a_rf_explainer,2.26,0.3641482089777947,0
+r1_1,model_1a_rf_explainer,2.32,0.3641482089777947,0
+r1_1,model_1a_rf_explainer,2.38,0.3641482089777947,0
+r1_1,model_1a_rf_explainer,2.44,0.3641482089777947,0
+r1_1,model_1a_rf_explainer,2.5,0.3641482089777947,0
+r1_1,model_1a_rf_explainer,2.56,0.36655669130634605,0
+r1_1,model_1a_rf_explainer,2.62,0.36655669130634605,0
+r1_1,model_1a_rf_explainer,2.6799999999999997,0.36655669130634605,0
+r1_1,model_1a_rf_explainer,2.74,0.36655669130634605,0
+r1_1,model_1a_rf_explainer,2.8,0.36655669130634605,0
+r1_1,model_1a_rf_explainer,2.86,0.36655669130634605,0
+r1_1,model_1a_rf_explainer,2.92,0.36655669130634605,0
+r1_1,model_1a_rf_explainer,2.98,0.36655669130634605,0
+r1_1,model_1a_rf_explainer,3.04,0.3665491441365347,0
+r1_1,model_1a_rf_explainer,3.1,0.3665491441365347,0
+r1_1,model_1a_rf_explainer,3.16,0.3665491441365347,0
+r1_1,model_1a_rf_explainer,3.2199999999999998,0.3665491441365347,0
+r1_1,model_1a_rf_explainer,3.28,0.3665491441365347,0
+r1_1,model_1a_rf_explainer,3.34,0.3665491441365347,0
+r1_1,model_1a_rf_explainer,3.4,0.3665491441365347,0
+r1_1,model_1a_rf_explainer,3.46,0.3665491441365347,0
+r1_1,model_1a_rf_explainer,3.52,0.37620907284534827,0
+r1_1,model_1a_rf_explainer,3.58,0.37620907284534827,0
+r1_1,model_1a_rf_explainer,3.6399999999999997,0.37620907284534827,0
+r1_1,model_1a_rf_explainer,3.6999999999999997,0.37620907284534827,0
+r1_1,model_1a_rf_explainer,3.76,0.37620907284534827,0
+r1_1,model_1a_rf_explainer,3.82,0.37620907284534827,0
+r1_1,model_1a_rf_explainer,3.88,0.37620907284534827,0
+r1_1,model_1a_rf_explainer,3.94,0.37620907284534827,0
+r1_1,model_1a_rf_explainer,4.0,0.37620907284534827,0
+r1_1,model_1a_rf_explainer,4.0600000000000005,0.37620950019577565,0
+r1_1,model_1a_rf_explainer,4.12,0.37620950019577565,0
+r1_1,model_1a_rf_explainer,4.18,0.37620950019577565,0
+r1_1,model_1a_rf_explainer,4.24,0.37620950019577565,0
+r1_1,model_1a_rf_explainer,4.3,0.37620950019577565,0
+r1_1,model_1a_rf_explainer,4.359999999999999,0.37620950019577565,0
+r1_1,model_1a_rf_explainer,4.42,0.37620950019577565,0
+r1_1,model_1a_rf_explainer,4.48,0.37620950019577565,0
+r1_1,model_1a_rf_explainer,4.54,0.4331306214196612,0
+r1_1,model_1a_rf_explainer,4.6,0.4331306214196612,0
+r1_1,model_1a_rf_explainer,4.66,0.4331306214196612,0
+r1_1,model_1a_rf_explainer,4.72,0.4331306214196612,0
+r1_1,model_1a_rf_explainer,4.779999999999999,0.4331306214196612,0
+r1_1,model_1a_rf_explainer,4.84,0.4331306214196612,0
+r1_1,model_1a_rf_explainer,4.9,0.4331306214196612,0
+r1_1,model_1a_rf_explainer,4.96,0.4331306214196612,0
+r1_1,model_1a_rf_explainer,5.02,0.4331411477354507,0
+r1_1,model_1a_rf_explainer,5.08,0.4331411477354507,0
+r1_1,model_1a_rf_explainer,5.14,0.4331411477354507,0
+r1_1,model_1a_rf_explainer,5.2,0.4331411477354507,0
+r1_1,model_1a_rf_explainer,5.26,0.4331411477354507,0
+r1_1,model_1a_rf_explainer,5.32,0.4331411477354507,0
+r1_1,model_1a_rf_explainer,5.38,0.4331411477354507,0
+r1_1,model_1a_rf_explainer,5.4399999999999995,0.4331411477354507,0
+r1_1,model_1a_rf_explainer,5.5,0.4331411477354507,0
+r1_1,model_1a_rf_explainer,5.56,0.4529322228004959,0
+r1_1,model_1a_rf_explainer,5.62,0.4529322228004959,0
+r1_1,model_1a_rf_explainer,5.68,0.4529322228004959,0
+r1_1,model_1a_rf_explainer,5.74,0.4529322228004959,0
+r1_1,model_1a_rf_explainer,5.8,0.4529322228004959,0
+r1_1,model_1a_rf_explainer,5.859999999999999,0.4529322228004959,0
+r1_1,model_1a_rf_explainer,5.92,0.4529322228004959,0
+r1_1,model_1a_rf_explainer,5.9799999999999995,0.4529322228004959,0
+r1_1,model_1a_rf_explainer,6.04,0.45292687477958715,0
+r1_1,model_1a_rf_explainer,6.1,0.45292687477958715,0
+r1_1,model_1a_rf_explainer,6.16,0.45292687477958715,0
+r1_1,model_1a_rf_explainer,6.22,0.45292687477958715,0
+r1_1,model_1a_rf_explainer,6.279999999999999,0.45292687477958715,0
+r1_1,model_1a_rf_explainer,6.34,0.45292687477958715,0
+r1_1,model_1a_rf_explainer,6.3999999999999995,0.45292687477958715,0
+r1_1,model_1a_rf_explainer,6.46,0.45292687477958715,0
+r1_1,model_1a_rf_explainer,6.52,0.47136148787826876,0
+r1_1,model_1a_rf_explainer,6.58,0.47136148787826876,0
+r1_1,model_1a_rf_explainer,6.64,0.47136148787826876,0
+r1_1,model_1a_rf_explainer,6.7,0.47136148787826876,0
+r1_1,model_1a_rf_explainer,6.76,0.47136148787826876,0
+r1_1,model_1a_rf_explainer,6.819999999999999,0.47136148787826876,0
+r1_1,model_1a_rf_explainer,6.88,0.47136148787826876,0
+r1_1,model_1a_rf_explainer,6.9399999999999995,0.47136148787826876,0
+r1_1,model_1a_rf_explainer,7.0,0.47136148787826876,0
+age,model_1a_rf_explainer,18.0,0.4687759311531464,0
+age,model_1a_rf_explainer,18.8,0.468462193779409,0
+age,model_1a_rf_explainer,19.6,0.4685560300039355,0
+age,model_1a_rf_explainer,20.4,0.4685560300039355,0
+age,model_1a_rf_explainer,21.2,0.4693328039047998,0
+age,model_1a_rf_explainer,22.0,0.468007609197552,0
+age,model_1a_rf_explainer,22.8,0.46783273934702163,0
+age,model_1a_rf_explainer,23.6,0.4677461406076827,0
+age,model_1a_rf_explainer,24.4,0.46759851869495483,0
+age,model_1a_rf_explainer,25.2,0.4630674745878349,0
+age,model_1a_rf_explainer,26.0,0.46230857944500275,0
+age,model_1a_rf_explainer,26.8,0.46191791847691605,0
+age,model_1a_rf_explainer,27.6,0.45962981006135956,0
+age,model_1a_rf_explainer,28.4,0.4593681970277304,0
+age,model_1a_rf_explainer,29.200000000000003,0.45713303495389207,0
+age,model_1a_rf_explainer,30.0,0.45654405129086495,0
+age,model_1a_rf_explainer,30.8,0.45387550258426784,0
+age,model_1a_rf_explainer,31.6,0.45265334310719085,0
+age,model_1a_rf_explainer,32.4,0.45258614158185906,0
+age,model_1a_rf_explainer,33.2,0.4519425601066969,0
+age,model_1a_rf_explainer,34.0,0.45273995049389837,0
+age,model_1a_rf_explainer,34.8,0.44922530995744164,0
+age,model_1a_rf_explainer,35.6,0.44207720121897826,0
+age,model_1a_rf_explainer,36.400000000000006,0.4414661296028947,0
+age,model_1a_rf_explainer,37.2,0.42747477913854415,0
+age,model_1a_rf_explainer,38.0,0.42609390652524165,0
+age,model_1a_rf_explainer,38.8,0.4244584061320334,0
+age,model_1a_rf_explainer,39.6,0.42222810507260805,0
+age,model_1a_rf_explainer,40.400000000000006,0.42203284077482794,0
+age,model_1a_rf_explainer,41.2,0.41817866710004886,0
+age,model_1a_rf_explainer,42.0,0.41636924703945005,0
+age,model_1a_rf_explainer,42.8,0.41643523500045065,0
+age,model_1a_rf_explainer,43.6,0.41579894024429404,0
+age,model_1a_rf_explainer,44.400000000000006,0.4154825607210329,0
+age,model_1a_rf_explainer,45.2,0.4152098695825927,0
+age,model_1a_rf_explainer,46.0,0.41098271922956203,0
+age,model_1a_rf_explainer,46.8,0.39779156974689656,0
+age,model_1a_rf_explainer,47.6,0.39118922201958894,0
+age,model_1a_rf_explainer,48.400000000000006,0.3910330569820122,0
+age,model_1a_rf_explainer,49.2,0.3897626342843024,0
+age,model_1a_rf_explainer,50.0,0.3873340067643181,0
+age,model_1a_rf_explainer,50.800000000000004,0.37967894289069515,0
+age,model_1a_rf_explainer,51.6,0.37565390058777925,0
+age,model_1a_rf_explainer,52.4,0.37562765187106395,0
+age,model_1a_rf_explainer,53.2,0.37424493911652823,0
+age,model_1a_rf_explainer,54.0,0.37552626407994194,0
+age,model_1a_rf_explainer,54.800000000000004,0.37524452639215045,0
+age,model_1a_rf_explainer,55.6,0.3758561976585523,0
+age,model_1a_rf_explainer,56.400000000000006,0.3759525181770979,0
+age,model_1a_rf_explainer,57.2,0.3745964982059889,0
+age,model_1a_rf_explainer,58.0,0.37376494982620845,0
+age,model_1a_rf_explainer,58.800000000000004,0.3733184956053795,0
+age,model_1a_rf_explainer,59.6,0.373238816168026,0
+age,model_1a_rf_explainer,60.400000000000006,0.37349035621519716,0
+age,model_1a_rf_explainer,61.2,0.37374773281261126,0
+age,model_1a_rf_explainer,62.0,0.3741889082680326,0
+age,model_1a_rf_explainer,62.800000000000004,0.3767188213236063,0
+age,model_1a_rf_explainer,63.6,0.38077749188790344,0
+age,model_1a_rf_explainer,64.4,0.38081235723541546,0
+age,model_1a_rf_explainer,65.2,0.3812342917097154,0
+age,model_1a_rf_explainer,66.0,0.3817348025526814,0
+age,model_1a_rf_explainer,66.80000000000001,0.3831154607927605,0
+age,model_1a_rf_explainer,67.6,0.3832967541754901,0
+age,model_1a_rf_explainer,68.4,0.3834207632723062,0
+age,model_1a_rf_explainer,69.2,0.3848967169129191,0
+age,model_1a_rf_explainer,70.0,0.3835059634150231,0
+age,model_1a_rf_explainer,70.80000000000001,0.3826138217207511,0
+age,model_1a_rf_explainer,71.6,0.38263398688196937,0
+age,model_1a_rf_explainer,72.4,0.38262891441820124,0
+age,model_1a_rf_explainer,73.2,0.3824273996216828,0
+age,model_1a_rf_explainer,74.0,0.38265357449650295,0
+age,model_1a_rf_explainer,74.80000000000001,0.38297637665019335,0
+age,model_1a_rf_explainer,75.6,0.3836010421675894,0
+age,model_1a_rf_explainer,76.4,0.38369962327015894,0
+age,model_1a_rf_explainer,77.2,0.3861538911512023,0
+age,model_1a_rf_explainer,78.0,0.3863356260334216,0
+age,model_1a_rf_explainer,78.80000000000001,0.38695931636161435,0
+age,model_1a_rf_explainer,79.6,0.38792441845546477,0
+age,model_1a_rf_explainer,80.4,0.3881618566819631,0
+age,model_1a_rf_explainer,81.2,0.3890833981694512,0
+age,model_1a_rf_explainer,82.0,0.3890833981694512,0
+age,model_1a_rf_explainer,82.8,0.3921037189967844,0
+age,model_1a_rf_explainer,83.60000000000001,0.39349676288956503,0
+age,model_1a_rf_explainer,84.4,0.39349676288956503,0
+age,model_1a_rf_explainer,85.2,0.39545588701525813,0
+age,model_1a_rf_explainer,86.0,0.39545588701525813,0
+age,model_1a_rf_explainer,86.8,0.39545588701525813,0
+age,model_1a_rf_explainer,87.60000000000001,0.39545588701525813,0
+age,model_1a_rf_explainer,88.4,0.39545588701525813,0
+age,model_1a_rf_explainer,89.2,0.39545588701525813,0
+age,model_1a_rf_explainer,90.0,0.39545588701525813,0
+age,model_1a_rf_explainer,90.8,0.39545588701525813,0
+age,model_1a_rf_explainer,91.60000000000001,0.39545588701525813,0
+age,model_1a_rf_explainer,92.4,0.39545588701525813,0
+age,model_1a_rf_explainer,93.2,0.39545588701525813,0
+age,model_1a_rf_explainer,94.0,0.39545588701525813,0
+age,model_1a_rf_explainer,94.80000000000001,0.39545588701525813,0
+age,model_1a_rf_explainer,95.60000000000001,0.39545588701525813,0
+age,model_1a_rf_explainer,96.4,0.39545588701525813,0
+age,model_1a_rf_explainer,97.2,0.39545588701525813,0
+age,model_1a_rf_explainer,98.0,0.39545588701525813,0
+week_number,model_1a_rf_explainer,1.0,0.3540828860141523,0
+week_number,model_1a_rf_explainer,1.3599999999999999,0.3540828860141523,0
+week_number,model_1a_rf_explainer,1.72,0.35260905993026076,0
+week_number,model_1a_rf_explainer,2.08,0.35260905993026076,0
+week_number,model_1a_rf_explainer,2.44,0.35260905993026076,0
+week_number,model_1a_rf_explainer,2.8,0.3581272993401271,0
+week_number,model_1a_rf_explainer,3.16,0.35812123873406654,0
+week_number,model_1a_rf_explainer,3.52,0.39873196703211883,0
+week_number,model_1a_rf_explainer,3.88,0.39873196703211883,0
+week_number,model_1a_rf_explainer,4.24,0.3984638141058322,0
+week_number,model_1a_rf_explainer,4.6,0.4022879788630316,0
+week_number,model_1a_rf_explainer,4.96,0.4022879788630316,0
+week_number,model_1a_rf_explainer,5.32,0.4022160371701798,0
+week_number,model_1a_rf_explainer,5.68,0.4027659847116255,0
+week_number,model_1a_rf_explainer,6.04,0.40276053894965796,0
+week_number,model_1a_rf_explainer,6.3999999999999995,0.40276053894965796,0
+week_number,model_1a_rf_explainer,6.76,0.4026150760728471,0
+week_number,model_1a_rf_explainer,7.12,0.40138192725086475,0
+week_number,model_1a_rf_explainer,7.4799999999999995,0.40138192725086475,0
+week_number,model_1a_rf_explainer,7.84,0.4014199016381541,0
+week_number,model_1a_rf_explainer,8.2,0.4014041369757955,0
+week_number,model_1a_rf_explainer,8.559999999999999,0.4026470186411576,0
+week_number,model_1a_rf_explainer,8.92,0.4026470186411576,0
+week_number,model_1a_rf_explainer,9.28,0.4027247198310353,0
+week_number,model_1a_rf_explainer,9.64,0.40595185119635574,0
+week_number,model_1a_rf_explainer,10.0,0.40595185119635574,0
+week_number,model_1a_rf_explainer,10.36,0.4060495081359458,0
+week_number,model_1a_rf_explainer,10.719999999999999,0.4077018075972788,0
+week_number,model_1a_rf_explainer,11.08,0.4077209696705543,0
+week_number,model_1a_rf_explainer,11.44,0.4077209696705543,0
+week_number,model_1a_rf_explainer,11.799999999999999,0.4079290817763516,0
+week_number,model_1a_rf_explainer,12.16,0.40976328035600623,0
+week_number,model_1a_rf_explainer,12.52,0.40998609440116374,0
+week_number,model_1a_rf_explainer,12.879999999999999,0.40998609440116374,0
+week_number,model_1a_rf_explainer,13.24,0.41002531942450643,0
+week_number,model_1a_rf_explainer,13.6,0.4182243839739254,0
+week_number,model_1a_rf_explainer,13.959999999999999,0.4182243839739254,0
+week_number,model_1a_rf_explainer,14.32,0.418347495549203,0
+week_number,model_1a_rf_explainer,14.68,0.45908238691692543,0
+week_number,model_1a_rf_explainer,15.04,0.45929448864952954,0
+week_number,model_1a_rf_explainer,15.399999999999999,0.45929448864952954,0
+week_number,model_1a_rf_explainer,15.76,0.45978891921045906,0
+week_number,model_1a_rf_explainer,16.119999999999997,0.4599330778127606,0
+week_number,model_1a_rf_explainer,16.479999999999997,0.4599330778127606,0
+week_number,model_1a_rf_explainer,16.84,0.4604586629685684,0
+week_number,model_1a_rf_explainer,17.2,0.460330968989101,0
+week_number,model_1a_rf_explainer,17.56,0.45201323636104934,0
+week_number,model_1a_rf_explainer,17.919999999999998,0.45201323636104934,0
+week_number,model_1a_rf_explainer,18.28,0.4519649186668023,0
+week_number,model_1a_rf_explainer,18.64,0.447321121287958,0
+week_number,model_1a_rf_explainer,19.0,0.447321121287958,0
+week_number,model_1a_rf_explainer,19.36,0.4471236475101487,0
+week_number,model_1a_rf_explainer,19.72,0.44399404250437063,0
+week_number,model_1a_rf_explainer,20.08,0.44389982444936826,0
+week_number,model_1a_rf_explainer,20.439999999999998,0.44389982444936826,0
+week_number,model_1a_rf_explainer,20.8,0.4433934048169643,0
+week_number,model_1a_rf_explainer,21.16,0.44339048056000036,0
+week_number,model_1a_rf_explainer,21.52,0.4428005281556027,0
+week_number,model_1a_rf_explainer,21.88,0.4428005281556027,0
+week_number,model_1a_rf_explainer,22.24,0.4427007382396363,0
+week_number,model_1a_rf_explainer,22.599999999999998,0.4453100308014866,0
+week_number,model_1a_rf_explainer,22.96,0.4453100308014866,0
+week_number,model_1a_rf_explainer,23.32,0.44556741934389504,0
+week_number,model_1a_rf_explainer,23.68,0.44694135194693463,0
+week_number,model_1a_rf_explainer,24.04,0.44722596733155,0
+week_number,model_1a_rf_explainer,24.4,0.44722596733155,0
+week_number,model_1a_rf_explainer,24.759999999999998,0.44695787178340635,0
+week_number,model_1a_rf_explainer,25.119999999999997,0.44723838600083277,0
+week_number,model_1a_rf_explainer,25.48,0.44723838600083277,0
+week_number,model_1a_rf_explainer,25.84,0.4481712794898192,0
+week_number,model_1a_rf_explainer,26.2,0.4485083670319068,0
+week_number,model_1a_rf_explainer,26.56,0.5069265281953392,0
+week_number,model_1a_rf_explainer,26.919999999999998,0.5069265281953392,0
+week_number,model_1a_rf_explainer,27.279999999999998,0.5069265281953392,0
+week_number,model_1a_rf_explainer,27.64,0.5066209209139649,0
+week_number,model_1a_rf_explainer,28.0,0.5066209209139649,0
+week_number,model_1a_rf_explainer,28.36,0.5066619465549906,0
+week_number,model_1a_rf_explainer,28.72,0.5057008013543804,0
+week_number,model_1a_rf_explainer,29.08,0.505936356909936,0
+week_number,model_1a_rf_explainer,29.439999999999998,0.505936356909936,0
+week_number,model_1a_rf_explainer,29.799999999999997,0.5047734988245031,0
+week_number,model_1a_rf_explainer,30.16,0.5047734988245031,0
+week_number,model_1a_rf_explainer,30.52,0.5047321009750407,0
+week_number,model_1a_rf_explainer,30.88,0.5047321009750407,0
+week_number,model_1a_rf_explainer,31.24,0.5047321009750407,0
+week_number,model_1a_rf_explainer,31.599999999999998,0.5047321009750407,0
+week_number,model_1a_rf_explainer,31.959999999999997,0.5047321009750407,0
+week_number,model_1a_rf_explainer,32.32,0.5047321009750407,0
+week_number,model_1a_rf_explainer,32.68,0.5048165454194851,0
+week_number,model_1a_rf_explainer,33.04,0.5048165454194851,0
+week_number,model_1a_rf_explainer,33.4,0.5048165454194851,0
+week_number,model_1a_rf_explainer,33.76,0.5048165454194851,0
+week_number,model_1a_rf_explainer,34.12,0.5048165454194851,0
+week_number,model_1a_rf_explainer,34.48,0.5048165454194851,0
+week_number,model_1a_rf_explainer,34.839999999999996,0.5051284160978264,0
+week_number,model_1a_rf_explainer,35.199999999999996,0.5051284160978264,0
+week_number,model_1a_rf_explainer,35.56,0.5051284160978264,0
+week_number,model_1a_rf_explainer,35.92,0.5051284160978264,0
+week_number,model_1a_rf_explainer,36.28,0.5051284160978264,0
+week_number,model_1a_rf_explainer,36.64,0.5051284160978264,0
+week_number,model_1a_rf_explainer,37.0,0.5051284160978264,0
+state_New South Wales,model_1a_rf_explainer,0.0,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.01,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.02,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.03,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.04,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.05,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.06,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.07,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.08,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.09,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.1,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.11,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.12,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.13,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.14,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.15,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.16,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.17,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.18,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.19,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.2,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.21,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.22,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.23,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.24,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.25,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.26,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.27,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.28,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.29,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.3,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.31,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.32,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.33,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.34,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.35000000000000003,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.36,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.37,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.38,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.39,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.4,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.41000000000000003,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.42,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.43,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.44,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.45,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.46,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.47000000000000003,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.48,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.49,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.5,0.30990185502790885,0
+state_New South Wales,model_1a_rf_explainer,0.51,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.52,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.53,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.54,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.55,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.56,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.5700000000000001,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.58,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.59,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.6,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.61,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.62,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.63,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.64,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.65,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.66,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.67,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.68,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.6900000000000001,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.7000000000000001,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.71,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.72,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.73,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.74,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.75,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.76,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.77,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.78,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.79,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.8,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.81,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.8200000000000001,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.8300000000000001,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.84,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.85,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.86,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.87,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.88,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.89,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.9,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.91,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.92,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.93,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.9400000000000001,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.9500000000000001,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.96,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.97,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.98,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,0.99,0.48977498727745766,0
+state_New South Wales,model_1a_rf_explainer,1.0,0.48977498727745766,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.0,0.2482623932756459,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.04,0.2482623932756459,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.08,0.2482623932756459,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.12,0.2482623932756459,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.16,0.2482623932756459,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.2,0.2482623932756459,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.24,0.2482623932756459,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.28,0.2482623932756459,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.32,0.2482623932756459,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.3599999999999999,0.2482623932756459,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.4,0.2482623932756459,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.44,0.2482623932756459,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.48,0.2482623932756459,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.52,0.2791355767643255,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.56,0.2791355767643255,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.6,0.2791355767643255,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.6400000000000001,0.2791355767643255,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.6800000000000002,0.2791355767643255,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.72,0.2791355767643255,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.76,0.2791355767643255,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.8,0.2791355767643255,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.8399999999999999,0.2791355767643255,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.88,0.2791355767643255,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.92,0.2791355767643255,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,1.96,0.2791355767643255,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.0,0.2791355767643255,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.04,0.2791534555522043,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.08,0.2791534555522043,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.12,0.2791534555522043,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.16,0.2791534555522043,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.2,0.2791534555522043,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.24,0.2791534555522043,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.2800000000000002,0.2791534555522043,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.3200000000000003,0.2791534555522043,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.3600000000000003,0.2791534555522043,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.4000000000000004,0.2791534555522043,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.44,0.2791534555522043,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.48,0.2791534555522043,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.52,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.56,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.6,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.64,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.6799999999999997,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.7199999999999998,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.76,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.8,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.84,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.88,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.92,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,2.96,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.0,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.04,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.08,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.12,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.16,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.2,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.24,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.2800000000000002,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.32,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.36,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.4,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.44,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.48,0.3186349154589372,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.52,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.56,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.6,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.64,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.68,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.72,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.7600000000000002,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.8000000000000003,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.84,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.88,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.92,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,3.96,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.0,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.04,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.08,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.12,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.16,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.2,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.24,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.28,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.32,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.359999999999999,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.4,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.4399999999999995,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.48,0.4617114606717246,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.52,0.503885220273801,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.5600000000000005,0.503885220273801,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.6,0.503885220273801,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.640000000000001,0.503885220273801,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.68,0.503885220273801,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.720000000000001,0.503885220273801,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.76,0.503885220273801,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.800000000000001,0.503885220273801,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.84,0.503885220273801,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.88,0.503885220273801,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.92,0.503885220273801,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,4.96,0.503885220273801,0
+protective_behaviour_nomask_scale,model_1a_rf_explainer,5.0,0.503885220273801,0

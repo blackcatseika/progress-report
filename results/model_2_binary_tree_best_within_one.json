@@ -1,0 +1,6 @@
+{
+    "min_impurity_decrease":0.0003015297,
+    "min_weight_fraction_leaf":0.0016050714,
+    "min_samples_split":15.0,
+    "achieved_value":0.785939609
+}
