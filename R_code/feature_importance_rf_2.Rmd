@@ -97,7 +97,8 @@ labels[str_detect(labels, "I11 Health")] <- str_c(labels[str_detect(labels, "I11
 labels[str_detect(labels, "I11 Health")] <- str_replace(labels[str_detect(labels, "I11 Health")], "I11 Health ", "")
 labels[str_detect(labels, "I9 Health Yes")] <- "Will Isolate If Unwell"
 labels[str_detect(labels, "D1")] <- "Has Comorbidities"
-labels[str_detect(labels, "R1")] <- "Perceived Severity"
+labels[str_detect(labels, "R1 1")] <- "Perceived Severity"
+labels[str_detect(labels, "R1 2")] <- "Perceived Susceptibility"
 labels[str_detect(labels, "Wcrex1")] <- "Confidence In Response (Very Well)"
 labels[str_detect(labels, "Wcrex2")] <- "Government Transparency (Don't know)"
 labels[str_detect(labels, "I9 Health Not Sure")] <- "Isolate If Unwell (Not Sure)"
